@@ -1,9 +1,10 @@
 # Hi there 👋
+I'm currently diving deep into **Web Development**, building projects with modern frameworks and exploring how frontend and backend technologies work together.
 
-- 🌱 I’m currently learning Web Development
-- 🔭 I’m currently working on my portfolio
-- 👨🏼‍💻 I'm interested in Js and APIs
-- 💬 Ask me about anything!
+- 🌱 Learning: Web Development (React, Next.js, APIs)
+- 🔭 Working on: My personal portfolio + projects
+- 👨🏼‍💻 Interests: JavaScript, APIs, UI/UX
+- 💬 Ask me anything or drop a suggestion!
 - ⚡ Fun fact: I love cats.
 
 ---
@@ -17,6 +18,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" style="margin-right: 15px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" style="margin-right: 15px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" style="margin-right: 15px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" style="margin-right: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" style="margin-right: 15px;" />
+
 </p>
 
 ---
+
+## Let's Connect
+
+Feel free to reach out if you want to collaborate or just chat!
+
+> Thanks for stopping by 👋
