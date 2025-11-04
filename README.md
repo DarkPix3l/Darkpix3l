@@ -1,5 +1,5 @@
 Passionate about creating web apps with React, Next.js, and TypeScript.
-I enjoy turning ideas into interactive, responsive experiences.
+<br>I enjoy turning ideas into interactive, responsive experiences.
 
 ---
 
