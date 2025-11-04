@@ -17,8 +17,9 @@ I enjoy turning ideas into interactive, responsive experiences.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" style="margin-right: 15px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" style="margin-right: 15px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" style="margin-right: 15px;">
-  <img src="https://raw.githubusercontent.com/microsoft/playwright/main/logo/playwright-logo.svg" width="40" style="margin-right: 15px;">
-  <img src="https://raw.githubusercontent.com/testing-library/react-testing-library/main/logo.png" width="40" style="margin-right: 15px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Playwright_Logo.svg" width="40" style="margin-right: 15px;" alt="Playwright logo">
+  <img src="https://seeklogo.com/images/T/testing-library-logo-434973.png" width="40" style="margin-right: 15px;" alt="Testing Library logo">
+
 
 </p>
 
